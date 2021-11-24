@@ -1,12 +1,12 @@
 # Database
 
 
-ASSIGNMENT 1 [Assignment Relational Algebra.pdf](https://github.com/kitkatlky/Database/files/7598536/Assignment.Relational.Algebra.pdf)
+ASSIGNMENT 1 Relational Algebra [Assignment Relational Algebra.pdf](https://github.com/kitkatlky/Database/files/7598536/Assignment.Relational.Algebra.pdf)
 [relation algebra (my group.pdf](https://github.com/kitkatlky/Database/files/7598537/relation.algebra.my.group.pdf)
 
 
 
-ASSIGNMENT 2 [Assignment 2- RA and SQL.pdf](https://github.com/kitkatlky/Database/files/7598540/Assignment.2-.RA.and.SQL.pdf)
+ASSIGNMENT 2 Relational Algebra & SQL [Assignment 2- RA and SQL.pdf](https://github.com/kitkatlky/Database/files/7598540/Assignment.2-.RA.and.SQL.pdf)
 [Edited - ASSIGNMENT2_RELATIONAL ALGEBRA AND SQL.pdf](https://github.com/kitkatlky/Database/files/7598542/Edited.-.ASSIGNMENT2_RELATIONAL.ALGEBRA.AND.SQL.pdf)
 
 
